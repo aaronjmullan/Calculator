@@ -1,6 +1,13 @@
 using System;
 using System.Windows.Forms;
 
+/**
+ * @author Aaron Mullan
+ * Email: aaronjmullan@gmail.com
+ * GitHub: github.com/aaronjmullan
+ * LinkedIn: https://www.linkedin.com/in/aaronjmullan/
+ */
+
 namespace Calculator
 {
     public partial class CalculatorUI : Form
