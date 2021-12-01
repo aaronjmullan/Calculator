@@ -6,3 +6,4 @@ A calculator with basic functionality implemented.
 
 Calculator was created using C# and Visual Studio 2019 as the IDE. This was a side project that I undertook to showcase my C# ability and made use of some basic fundamentals of the language.
 
+As this mini project was just to showcase my ability to use the basic fundamentals of C# I assumed that all inputs were correct.
