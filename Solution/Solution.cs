@@ -17,7 +17,7 @@ namespace Calculator
             InitializeComponent();
         }
 
-        float number, result; // values to store the value pre operation and post
+        float number, result; // variables to store the value pre operation and post
         int counter; // value to correspond to each operation
 
         private void CalculatorUI_Load(object sender, EventArgs e)
